@@ -771,6 +771,10 @@
             "github-contact": "bignaux",
             "url": "https://github.com/bignaux/nur-packages"
         },
+        "genosse-dot-eu": {
+            "github-contact": "lambda-crime",
+            "url": "https://codeberg.org/genosse-dot-eu/nur"
+        },
         "geonix": {
             "github-contact": "imincik",
             "url": "https://github.com/imincik/geonix"
